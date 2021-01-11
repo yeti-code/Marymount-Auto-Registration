@@ -40,7 +40,7 @@ tar -xvzf file_name.tar.gz
 ------------------------------------------------------------
 
 
-once downloaded, move it to your /usr/local/bin
+once downloaded, move the driver file to your /usr/local/bin directory path
 
 which is part of the $PATH for global executables
 
@@ -51,6 +51,6 @@ to view the search $PATH:
 echo $PATH
 
 
-TO ADD  A NEW CUSTOM PATH:
+TO ADD A NEW CUSTOM PATH:
 
 export PATH=$PATH:/directory/of/file/to/add/to/path
