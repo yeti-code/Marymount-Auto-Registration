@@ -13,7 +13,7 @@ python3
 
 pip3
 
-<<sudo apt install python3-pip>>
+<sudo apt install python3-pip>
 
 You need the geckodriver
 
@@ -26,7 +26,7 @@ https://chromedriver.storage.googleapis.com/index.html?path=87.0.4280.88/
 -----------------------------------------------------------------
 selenium
 
-<<pip3 install selenium>>
+<pip3 install selenium>
 
 -----------------------------------------------------------------
 
@@ -48,7 +48,7 @@ You need to do this for either the geckodriver or chromedriver. Or both if you w
 
 to view the search $PATH:
 
-<<echo $PATH>>
+<echo $PATH>
 
 
 TO ADD  A NEW CUSTOM PATH:
