@@ -26,7 +26,7 @@ https://chromedriver.storage.googleapis.com/index.html?path=87.0.4280.88/
 -----------------------------------------------------------------
 selenium
 
-<pip3 install selenium>
+pip3 install selenium
 
 -----------------------------------------------------------------
 
@@ -35,7 +35,7 @@ COMMANDS:
 
 how to open a tar.gz file:
 
-<<tar -xvzf file_name.tar.gz>>
+tar -xvzf file_name.tar.gz
 
 ------------------------------------------------------------
 
@@ -48,9 +48,9 @@ You need to do this for either the geckodriver or chromedriver. Or both if you w
 
 to view the search $PATH:
 
-<echo $PATH>
+echo $PATH
 
 
 TO ADD  A NEW CUSTOM PATH:
 
-<<export PATH=$PATH:/directory/of/file/to/add/to/path>>
+export PATH=$PATH:/directory/of/file/to/add/to/path
